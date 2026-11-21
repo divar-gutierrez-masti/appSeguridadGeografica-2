@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TesisSeguridadGeografica</string>
+    <string name="app_title">🔒 Control Criptográfico Geográfico (Tesis)</string>
+    <string name="location_status_initializing">Estatus: Inicializando Módulos...</string>
+    <string name="request_permissions_button">0. 🗺️ Solicitar Permisos e Iniciar Geocerca</string>
+    <string name="secret_data_hint">Ingrese el texto secreto. Los datos cifrados/descifrados se mostrarán aquí.</string>
+    <string name="iv_placeholder">IV (Vector de Inicialización) aparecerá aquí...</string>
+    <string name="encrypt_button">1. 🔒 Cifrar Datos (AES-256)</string>
+    <string name="decrypt_button">2. 🔓 Descifrar Datos (ACCESO RESTRINGIDO)</string>
+    <string name="decrypt_button_info">El botón \'Descifrar\' se habilita SÓLO si la aplicación detecta que está dentro de los 200m de la Geocerca de la UPDS.</string>
+</resources>
